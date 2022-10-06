@@ -1,7 +1,7 @@
-### Hi there 👋
+### Hi 👋
 
 <!--
-**MAgi-15/MAgi-15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Agi/Agi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
